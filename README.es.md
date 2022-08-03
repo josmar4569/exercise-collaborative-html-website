@@ -54,3 +54,7 @@ Todos participantes del equipo presentan un repositorio como solución.
 
 ## Información complementaria
 La [Html-Template-Engine library](https://github.com/alesanchezr/html-template-engine) se utiliza como motor para crear plantillas para crear la página de destino.
+
+Josmar -> navbar.html & tagline.html
+Alejandro -> first_heading.html & services.html
+Helena -> portfolio.html & contact.html
